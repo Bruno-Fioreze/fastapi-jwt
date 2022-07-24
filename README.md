@@ -18,5 +18,5 @@ API Dockerizada feita em FastAPI.
     #veja os logs
     sudo docker-compose logs 
 
-    #tente acessar a aplicação pelo endereço: http://localhost:5000/
+    #tente acessar a aplicação pelo endereço: http://localhost:8000/
 ```
