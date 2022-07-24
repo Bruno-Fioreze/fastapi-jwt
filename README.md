@@ -5,6 +5,9 @@ API Dockerizada feita em FastAPI.
 
 - Docker
 - Docker Compose
+- Poetry
+- FastAPI
+- JWT
 
 ### Como executar
 
